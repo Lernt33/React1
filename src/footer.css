@@ -64,4 +64,10 @@
     .footer-content {
         flex-direction: column;
     }
+    .footer{
+        height: 100%;
+    }
+    p{
+        font-size: 0.7rem;
+    }
 }
